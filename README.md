@@ -31,7 +31,7 @@ This improves fairness and performance on highly skewed datasets (especially Mes
 # 2. Architecture Diagram
 
 ```markdown
-![Architecture](Architecture.png)
+(Architecture.png)
 ```
 ---
 # 3. Abstract
